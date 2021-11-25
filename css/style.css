@@ -37,3 +37,8 @@
     flex-wrap: wrap;
     align-content: stretch;
 }
+
+#main2 div {
+    width: 70px;
+    height: 70px;
+}
