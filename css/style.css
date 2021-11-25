@@ -127,3 +127,8 @@
     flex-wrap: wrap;
     align-content: initial;
 }
+
+#main8 div {
+    width: 70px;
+    height: 70px;
+}
