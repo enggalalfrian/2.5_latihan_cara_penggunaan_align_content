@@ -97,3 +97,8 @@
     flex-wrap: wrap;
     align-content: space-around;
 }
+
+#main6 div {
+    width: 70px;
+    height: 70px;
+}
