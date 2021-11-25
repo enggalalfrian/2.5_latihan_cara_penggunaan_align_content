@@ -112,3 +112,8 @@
     flex-wrap: wrap;
     align-content: space-evenly;
 }
+
+#main7 div {
+    width: 70px;
+    height: 70px;
+}
