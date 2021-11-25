@@ -67,3 +67,8 @@
     flex-wrap: wrap;
     align-content: flex-end;
 }
+
+#main4 div {
+    width: 70px;
+    height: 70px;
+}
