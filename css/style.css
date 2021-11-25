@@ -22,3 +22,8 @@
     flex-wrap: wrap;
     align-content: center;
 }
+
+#main1 div {
+    width: 70px;
+    height: 70px;
+}
